@@ -1,0 +1,29 @@
+header {
+    border-radius: 5px;
+    height: auto;
+    text-align: center;
+    background-color: rgb(1, 5, 75);
+    margin-bottom: 25px;
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 48px;
+}
+
+#total {
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#pending {
+    color: red;
+}
+
+#thead {
+    background-color: rgb(28, 71, 191);
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.error {
+    color: red;
+}
