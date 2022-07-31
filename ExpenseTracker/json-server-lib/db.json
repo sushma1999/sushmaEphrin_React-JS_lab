@@ -1,0 +1,108 @@
+{
+  "items": [
+    {
+      "payeeName": "Karan",
+      "expense": "Maintenance",
+      "price": 2000,
+      "date": "2022-07-01",
+      "errors": {
+        "payeeName": "",
+        "expense": "",
+        "price": "",
+        "date": ""
+      },
+      "id": 1
+    },
+    {
+      "payeeName": "Arjun",
+      "expense": "Dinner",
+      "price": 1000,
+      "date": "2022-07-03",
+      "errors": {
+        "payeeName": "",
+        "expense": "",
+        "price": "",
+        "date": ""
+      },
+      "id": 2
+    },
+    {
+      "payeeName": "Karan",
+      "expense": "Lunch",
+      "price": 1500,
+      "date": "2022-07-10",
+      "errors": {
+        "payeeName": "",
+        "expense": "",
+        "price": "",
+        "date": ""
+      },
+      "id": 3
+    },
+    {
+      "payeeName": "Arjun",
+      "expense": "Electricity Bill",
+      "price": 1500,
+      "date": "2022-07-04",
+      "errors": {
+        "payeeName": "",
+        "expense": "",
+        "price": "",
+        "date": ""
+      },
+      "id": 4
+    },
+    {
+      "payeeName": "Arjun",
+      "expense": "Water Bill",
+      "price": 500,
+      "date": "2022-07-04",
+      "errors": {
+        "payeeName": "",
+        "expense": "",
+        "price": "",
+        "date": ""
+      },
+      "id": 5
+    },
+    {
+      "payeeName": "Karan",
+      "expense": "Juice",
+      "price": 300,
+      "date": "2022-07-07",
+      "errors": {
+        "payeeName": "",
+        "expense": "",
+        "price": "",
+        "date": ""
+      },
+      "id": 6
+    },
+    {
+      "payeeName": "Arjun",
+      "expense": "Bike Repair",
+      "price": 5000,
+      "date": "2022-07-10",
+      "errors": {
+        "payeeName": "",
+        "expense": "",
+        "price": "",
+        "date": ""
+      },
+      "id": 7
+    },
+    {
+      "payeeName": "Karan",
+      "expense": "TV Repair",
+      "price": 3000,
+      "date": "2022-07-11",
+      "errors": {
+        "payeeName": "",
+        "expense": "",
+        "price": "",
+        "date": ""
+      },
+      "id": 8
+    }
+  ]
+}
